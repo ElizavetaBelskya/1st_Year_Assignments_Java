@@ -1,4 +1,4 @@
-package ru.kpfu.itis.belskaya.collection;
+
 
 public class CapacityOverflowException extends RuntimeException {
     public CapacityOverflowException() {

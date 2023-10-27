@@ -1,4 +1,4 @@
-package ru.kpfu.itis.belskaya;
+
 
 import ru.kpfu.itis.belskaya.DownloadingRunnable;
 

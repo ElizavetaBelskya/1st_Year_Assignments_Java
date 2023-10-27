@@ -1,4 +1,3 @@
-package ru.kpfu.itis.belskaya.expandableArray;
 
 public class ExpandableArrayIndexOutOfBoundsException extends RuntimeException {
     public ExpandableArrayIndexOutOfBoundsException() {

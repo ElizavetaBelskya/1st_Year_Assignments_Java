@@ -1,4 +1,4 @@
-package ru.kpfu.itis.belskaya.collection;
+
 
 import java.util.ArrayList;
 import java.util.Iterator;

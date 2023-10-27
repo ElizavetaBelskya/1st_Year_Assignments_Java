@@ -1,4 +1,4 @@
-package ru.kpfu.itis.belskaya;
+
 
 import javax.sound.midi.MidiUnavailableException;
 import java.io.IOException;

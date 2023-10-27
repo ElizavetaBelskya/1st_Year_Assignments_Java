@@ -1,4 +1,4 @@
-package ru.kpfu.itis.belskaya.expandableArray;
+
 
 public class Container <T> {
     private T obj;

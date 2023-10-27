@@ -1,4 +1,4 @@
-package ru.kpfu.itis.belskaya;
+
 
 import javax.sound.midi.MidiChannel;
 import javax.sound.midi.MidiSystem;

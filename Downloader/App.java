@@ -1,5 +1,3 @@
-package ru.kpfu.itis.belskaya;
-
 public class App {
     public static void main(String[] args) {
         Producer producer = new Producer();

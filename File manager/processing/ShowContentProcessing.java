@@ -1,4 +1,4 @@
-package ru.itis.belskaya.fileManager.processing;
+
 import ru.itis.belskaya.fileManager.FileManager;
 import ru.itis.belskaya.fileManager.commands.OutputForSubdirectories;
 import ru.itis.belskaya.fileManager.commands.OutputForSubdirectoriesWithInformation;

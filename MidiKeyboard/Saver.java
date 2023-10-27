@@ -1,4 +1,4 @@
-package ru.kpfu.itis.belskaya;
+
 
 import java.io.*;
 import java.nio.file.Files;

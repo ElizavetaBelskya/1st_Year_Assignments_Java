@@ -1,4 +1,4 @@
-package ru.kpfu.itis.belskaya.expandableArray;
+
 
 interface ArraysStructure<T> {
     T get(int index);

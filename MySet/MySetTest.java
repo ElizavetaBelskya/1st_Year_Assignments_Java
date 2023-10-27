@@ -1,4 +1,4 @@
-package ru.kpfu.itis.belskaya;
+
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package ru.kpfu.itis.belskaya.expandableArray;
+
 
 import java.util.Arrays;
 

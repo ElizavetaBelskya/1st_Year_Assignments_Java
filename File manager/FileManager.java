@@ -1,4 +1,4 @@
-package ru.itis.belskaya.fileManager;
+
 import ru.itis.belskaya.fileManager.processing.StorageOfCommands;
 
 import java.nio.file.Path;

@@ -1,4 +1,4 @@
-package ru.itis.belskaya.fileManager;
+
 import java.io.IOException;
 
 public class Main {

@@ -1,4 +1,3 @@
-package ru.itis.belskaya.fileManager.processing;
 
 import ru.itis.belskaya.fileManager.commands.Remover;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package ru.itis.belskaya.fileManager.commands;
+
 
 import ru.itis.belskaya.fileManager.FileManager;
 import ru.itis.belskaya.fileManager.processing.PathProcessing;

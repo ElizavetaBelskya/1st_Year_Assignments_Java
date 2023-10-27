@@ -1,4 +1,4 @@
-package ru.kpfu.itis.belskaya.collection;
+
 
 import java.util.AbstractCollection;
 import java.util.Iterator;

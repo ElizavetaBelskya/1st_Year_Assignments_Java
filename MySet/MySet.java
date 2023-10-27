@@ -1,4 +1,4 @@
-package ru.kpfu.itis.belskaya;
+
 
 import java.util.*;
 import java.util.stream.Collectors;
